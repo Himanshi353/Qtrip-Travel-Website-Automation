@@ -26,4 +26,4 @@
 <li>Page Object Model (POM) design pattern</li>
 <li>Test Reports: Test execution results are stored and reported using Extent Reports. These reports provide a detailed view of the tests that were executed, including pass/fail statuses, screenshots on failure, and more.</li>
 </ul>
-<p>For more details, refer to my <a href='https://crio.do/learn/portfolio/himanshigupta353/ME_QTRIP_QA_V2/' target='_blank'>porfolio.</a></p>
+<p>For more details, refer to my <a href="https://crio.do/learn/portfolio/himanshigupta353/ME_QTRIP_QA_V2/" target="_blank" rel="noopener noreferrer">portfolio.</a></p>
